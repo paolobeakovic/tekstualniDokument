@@ -1,0 +1,7 @@
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\bin\Debug\beakovicPaoloTekstualniDokument.exe.config
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\bin\Debug\beakovicPaoloTekstualniDokument.exe
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\bin\Debug\beakovicPaoloTekstualniDokument.pdb
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\obj\Debug\beakovicPaoloTekstualniDokument.csprojAssemblyReference.cache
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\obj\Debug\beakovicPaoloTekstualniDokument.csproj.CoreCompileInputs.cache
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\obj\Debug\beakovicPaoloTekstualniDokument.exe
+C:\Users\Paolo\source\repos\beakovicPaoloTekstualniDokument\beakovicPaoloTekstualniDokument\obj\Debug\beakovicPaoloTekstualniDokument.pdb
